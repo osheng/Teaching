@@ -3,4 +3,6 @@
 
 # except...
 !.gitignore
-!split_csv.py
+!*.py
+!ClassGradeCalculator/
+!ClassGradeCalculator/*
