@@ -3,6 +3,7 @@
 
 # except...
 !.gitignore
+!README.md
 !*.py
 !ClassGradeCalculator/
 !ClassGradeCalculator/*
